@@ -1,0 +1,12 @@
+Install Spider
+Install Anaconda
+            
+Important libraries in anaconda prompt 👇
+ conda  create  -n       spyder-env -y.
+
+conda activate spyder -env.
+
+conda install spyder -kernels  scikit-learn -y.
+
+pip install numpy
+pip install....
